@@ -9,4 +9,5 @@
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I like to ice skate in my freetime and am trying to learn the piano. 
 
-- For Projects and Coursework, please see to the Repository Tab. 
+- For Personal Projects, please see to the Repository Tab. If you are looking for coursework, I   will have to present them to you in person, as there are academic policies in place that 
+  prevent me from placing them publically onto gitHub.   
