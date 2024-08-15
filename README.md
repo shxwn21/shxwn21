@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Shawn Grant (gitUser: @shxwn21)
+- 👋 Hi, I’m Shawn Grant (git_user: @shxwn21)
 - 👀 I’m interested in seach systems and information extraction. 
 - 🌱 I’m currently learning PHP, postgresSQL, and MySQL for backend dev, Haskell
       for FSA generation, and pandas in python for research data management.  
