@@ -8,3 +8,5 @@
      - www.linkedin.com/in/shawn-grant-3216a5185
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I like to ice skate in my freetime and am trying to learn the piano. 
+
+- For Projects and Coursework, please see to the Repository Tab. 
